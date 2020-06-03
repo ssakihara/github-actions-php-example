@@ -2,9 +2,8 @@
 
 class Example
 {
-
-public function boot()
-{
+    public function boot()
+    {
 //
-}
+    }
 }
